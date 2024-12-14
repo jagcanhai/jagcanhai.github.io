@@ -1,2 +1,2 @@
-ubuntu22.10.png			https://raw.githubusercontent.com/jagcanhai/jagcanhai.github.io/refs/heads/main/_image/ubuntu22.10.png
-aftersun.png			
+ubuntu22.10.jpg			https://raw.githubusercontent.com/jagcanhai/jagcanhai.github.io/refs/heads/main/_image/ubuntu22.10.jpg
+aftersun.jpg		
