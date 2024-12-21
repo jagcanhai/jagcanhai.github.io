@@ -100,4 +100,32 @@
 <p>您的每一次阅读都将成为推动我前行的动力，最后我希望我的博客能够发展的越来越好，谢谢。</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>Mermaid JS 教程</title>
+    <url>/2024/12/21/Mermaid-JS-%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>举例：</p>
+<pre><code>#mermaid
+  graph TD;
+      A--&gt;B;
+      A--&gt;C;
+      B--&gt;D;
+      C--&gt;D;
+</code></pre>
+<pre class="mermaid">  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;</pre>
+
+
+<p>其中，graph 类型可以是 graph、digraph、flowchart、gantt、sequenceDiagram、classDiagram 和 stateDiagram。</p>
+<p>更多语法可以参考 <a class="link"   href="https://mermaid.js.org/" >Mermaid JS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+]]></content>
+      <categories>
+        <category>Mermaid JS</category>
+      </categories>
+      <tags>
+        <tag>Mermaid JS</tag>
+      </tags>
+  </entry>
 </search>
