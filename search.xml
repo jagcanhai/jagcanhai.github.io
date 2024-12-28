@@ -59,4 +59,46 @@
         <tag>Mermaid JS</tag>
       </tags>
   </entry>
+  <entry>
+    <title>IDE编辑器推荐</title>
+    <url>/2024/12/28/IDE%E7%BC%96%E8%BE%91%E5%99%A8%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<h3 id="1-Visual-Studio-Code"><a href="#1-Visual-Studio-Code" class="headerlink" title="1. Visual Studio Code"></a>1. Visual Studio Code</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnioGcxvzieAZo2vXDWXFPDi3ouDbpzp3KtpW5lTZSavbSzrvgYmGYJFSaBqXljsTg-&format=source"
+                      alt="Visual Studio Code"
+                ><br>Visual Studio Code 是一个免费、轻量级且可扩展的代码编辑器，用于使用任何编程语言和框架构建 Web、桌面和移动应用程序。支持 JavaScript 和 TypeScript，并提供用于 Python、Java、C&#x2F;C++、C#、Go、Rust、PHP 等语言的编码扩展。</p>
+<p><a class="link"   href="https://code.visualstudio.com/" >Visual Studio Code官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<hr>
+<h3 id="2-IntelliJ-IDEA"><a href="#2-IntelliJ-IDEA" class="headerlink" title="2. IntelliJ IDEA"></a>2. IntelliJ IDEA</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.jetbrains.com/idea/download/screenshots/download.png"
+                      alt="IntelliJ IDEA"
+                ><br> IntelliJ IDEA是JetBrains开发的一款Java集成开发环境，支持Java以及Kotlin、Scala、Groovy等JVM语言开发。</p>
+<p><a class="link"   href="https://www.jetbrains.com/idea/" >IntelliJ IDEA官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<hr>
+<h3 id="3-PyCharm"><a href="#3-PyCharm" class="headerlink" title="3. PyCharm"></a>3. PyCharm</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.jetbrains.com/pycharm/download/img/download.png"
+                      alt="PyCharm"
+                ><br>PyCharm由JetBrains出品，是一款专门为Python开发设计的IDE。适用于Python开发，包括Web开发、数据科学和机器学习等。</p>
+<p><a class="link"   href="https://www.jetbrains.com/pycharm/" >PyCharm官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<hr>
+<h3 id="4-Netbeans"><a href="#4-Netbeans" class="headerlink" title="4. Netbeans"></a>4. Netbeans</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://netbeans.apache.org/_/images/apache-netbeans.svg"
+                      alt="Netbeans"
+                ><br>NetBeans 是一个免费的、开源的集成开发环境，适用于 Windows、Mac、Linux 和 Solaris 操作系统上的应用程序开发。该 IDE 简化了使用 Java 和 HTML5 平台的 Web、企业、桌面和移动应用程序的开发。</p>
+<p><a class="link"   href="https://netbeans.apache.org/" >netbeans官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+]]></content>
+      <categories>
+        <category>IDE</category>
+      </categories>
+      <tags>
+        <tag>IDE</tag>
+      </tags>
+  </entry>
 </search>
