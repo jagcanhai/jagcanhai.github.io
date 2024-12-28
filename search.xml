@@ -39,16 +39,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Mermaid JS 基础教程</title>
-    <url>/2024/12/21/Mermaid-JS-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>举例：</p>
-<pre><code>#mermaid
-  graph TD;
-      A--&gt;B;
-      A--&gt;C;
-      B--&gt;D;
-      C--&gt;D;
-</code></pre>
+    <title>Mermaid.JS简介</title>
+    <url>/2024/12/21/Mermaid-JS-%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<p>Mermaid.JS是一个使用简洁的Markdown语法来绘制图表的开源库，它基于Mermaid语法标准，支持多种类型的图表和流程图。</p>
+<p>举例：</p>
 <pre class="mermaid">  graph TD;
       A-->B;
       A-->C;
@@ -56,8 +50,7 @@
       C-->D;</pre>
 
 
-<p>其中，graph 类型可以是 graph、digraph、flowchart、gantt、sequenceDiagram、classDiagram 和 stateDiagram。</p>
-<p>更多语法可以参考 <a class="link"   href="https://mermaid.js.org/" >Mermaid JS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
+<p>更多语法可以参考 <a class="link"   href="https://mermaid.js.org/" >Mermaid.JS官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p>
 ]]></content>
       <categories>
         <category>Mermaid JS</category>
